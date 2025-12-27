@@ -1,0 +1,1 @@
+A Python-based financial tool that backtests a Dual Moving Average Crossover strategy against a standard Buy and Hold approach. The project utilizes yfinance for real-time market data and matplotlib for performance visualization.
